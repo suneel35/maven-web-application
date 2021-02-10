@@ -17,11 +17,11 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="${mithunlogo}" alt="" width="100"/>
+		<img src="${spiderman}" alt="" width="100"/>
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
+		Spiderman Technologies, 
 		Martha Halli,Opp To Madhurai Iddly House
 		Bangalore.
 		+91-9980923226
@@ -30,8 +30,8 @@
 <hr>
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2018 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>spiderman Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2018 by <a href="http://spidermanTechnologies.com/">spiderman Technologies</a> </small></p>
 
 </body>
 </html>
